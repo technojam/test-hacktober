@@ -24,3 +24,5 @@ To commit
 To create branch
 `git branch`
 
+### hacktoberfest link
+https://hacktoberfest.digitalocean.com/
