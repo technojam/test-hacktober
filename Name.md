@@ -6,6 +6,7 @@ Danish Jamal --> android <br />
 marunga bhut
 Keenu Reves --> ML <br />
 Tom  --> web <br />
+Abhinav krishna singh -->cyber security <br />
 
 ### 2nd PR
 https://github.com/ravisaxena23/Hacktoberfest-pull-request

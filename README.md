@@ -5,7 +5,10 @@
  `https://git-scm.com/downloads`
 #### git dekstop
  `https://desktop.github.com/`
-
+### command to insatll git for linux user (debian/ubuntu)
+ * `sudo apt update` (update the package)
+ * `sudo apt install git` (install git)
+ * `git --version` (verify)
 ### step 2
 ## install VS code
 `https://code.visualstudio.com/`
