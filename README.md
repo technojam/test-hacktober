@@ -6,26 +6,26 @@
 #### git dekstop
  `https://desktop.github.com/`
 ### command to insatll git for linux user (debian/ubuntu)
- * `sudo apt update` (update the package)
- * `sudo apt install git` (install git)
- * `git --version` (verify)
+ * `sudo apt update` (update the package) <br />
+ * `sudo apt install git` (install git) <br />
+ * `git --version` (verify) <br />
 ### step 2
 ## install VS code
 `https://code.visualstudio.com/`
 
 ## git bash basic commands
-To clone repo
-`git clone repo`
-To push
-`git push branch name`
-To pull
-`git pull`
-To add 
-`git add .`
-To commit 
-`git commit -m "message"`
-To create branch
-`git branch`
+To clone repo <br />
+`git clone repo` <br />
+To push <br />
+`git push branch name` <br />
+To pull <br />
+`git pull` <br />
+To add  <br />
+`git add .` <br />
+To commit <br />
+`git commit -m "message"` <br />
+To create branch <br />
+`git branch` <br />
 
 ### hacktoberfest link
 https://hacktoberfest.digitalocean.com/
