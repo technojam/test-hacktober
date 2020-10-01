@@ -2,6 +2,8 @@
 ##### Please write your name and next event you want
 
 Ravi Nandan Saxena  --> python <br />
+Danish Jamal --> android <br />
+
 ### 2nd PR
 https://github.com/ravisaxena23/Hacktoberfest-pull-request
 
