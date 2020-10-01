@@ -26,3 +26,21 @@ To create branch
 
 ### hacktoberfest link
 https://hacktoberfest.digitalocean.com/
+
+#### repo to contribute
+Data science 
+https://github.com/technojam/Data-Science-Analysis
+
+Android
+https://github.com/technojam/AndroidCustomView
+
+Web
+https://github.com/technojam/technojam-frontend
+https://github.com/technojam/technojam-backend
+https://github.com/technojam/world-clock
+
+Algorithms
+https://github.com/technojam/Ultimate_Algorithms_Repository
+
+ML
+https://github.com/technojam/deepfake_project*/
