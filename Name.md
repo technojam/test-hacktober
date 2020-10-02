@@ -3,6 +3,7 @@
 
 Ravi Nandan Saxena  --> python <br />
 Danish Jamal --> android <br />
+Tushar Gupta -->python <br />
 marunga bhut
 Keenu Reves --> ML <br />
 Tom  --> web <br />
